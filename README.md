@@ -1,1 +1,1 @@
-# hello-world изучение
+# hello-world
